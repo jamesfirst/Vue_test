@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    组件试试·提交
+    组件试试·提交试试
     <router-view/>
   </div>
 </template>
